@@ -1,0 +1,8 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Node modules or Python envs if added later
+node_modules/
+__pycache__/
+.env
