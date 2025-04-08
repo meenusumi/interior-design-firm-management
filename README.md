@@ -19,6 +19,6 @@ A simple web-based system to manage clients, projects, designers, and schedules 
 
 Just open `index.html` in your browser.
 
-> This README was last updated from the `feature-1` branch.
+> This README was the last updated from the `feature-1` branch.
 
 
